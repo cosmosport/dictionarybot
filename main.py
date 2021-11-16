@@ -16,7 +16,6 @@ bot.
 import logging
 import subprocess
 import voice
-import my_dictionary
 
 from telegram import Update, ForceReply
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
