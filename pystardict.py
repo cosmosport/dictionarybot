@@ -1,3 +1,4 @@
+# This code was written by Serge Matveenko https://github.com/lig/pystardict
 import gzip
 import hashlib
 import os
