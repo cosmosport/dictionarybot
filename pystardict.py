@@ -1,4 +1,4 @@
-# This code was written by Serge Matveenko https://github.com/lig/pystardict
+# This code was written by Serge Matveenko https://github.com/lig/pystardict and published under GPLv3 license.
 import gzip
 import hashlib
 import os
